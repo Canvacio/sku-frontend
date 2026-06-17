@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://cofibean.vercel.app/chat
+
+# Sitemaps
+Sitemap: https://cofibean.vercel.app/chat/sitemap.xml
